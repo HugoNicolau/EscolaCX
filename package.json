@@ -1,0 +1,27 @@
+{
+  "name": "escolacx",
+  "version": "1.0.0",
+  "description": "A demo project for a scholl",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "dev":" nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoNicolau/EscolaCX.git"
+  },
+  "author": "Hugo Nicolau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoNicolau/EscolaCX/issues"
+  },
+  "homepage": "https://github.com/HugoNicolau/EscolaCX#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
